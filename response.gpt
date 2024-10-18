@@ -28,11 +28,11 @@ Do not send any requests until you find a simillar phrase to the specific phrase
 Specific phrases
 "Create/Pump/Develop a new coin" -> Take the stored data and send a get request to this url https://ffc3b973-1919-4fe1-b93b-8a054d8d90ea-00-1c52iidrvdue6.spock.repl.co/createcoin?name={Name}&description={Description}&symbol={symbol}
                                     Once you send the request reply with what every the url responds with so reply with the body text
-                                    ONLY REPLY WITH THE BODY TEXT DO NOT ADD ANY STYLING OR YOUR OWN TEXT
+                                    ONLY REPLY WITH THE BODY TEXT DO NOT ADD ANY STYLING OR YOUR OWN TEXT AND ADD TIMESTAMP FROM THE BODY OF THE REQUEST
 
 "Create/Write a new wallet" ->      send a get request to this url https://ffc3b973-1919-4fe1-b93b-8a054d8d90ea-00-1c52iidrvdue6.spock.repl.co/createwallet
                                     Once you send the request reply with what every the url responds with so reply with the body text
-                                    ONLY REPLY WITH THE BODY TEXT DO NOT ADD ANY STYLING OR YOUR OWN TEXT
+                                    ONLY REPLY WITH THE BODY TEXT DO NOT ADD ANY STYLING OR YOUR OWN TEXT AND ADD TIMESTAMP FROM THE BODY OF THE REQUEST
 
 ONLY USE THIS FORMAT IF YOU SEND A REQUEST TO https://ffc3b973-1919-4fe1-b93b-8a054d8d90ea-00-1c52iidrvdue6.spock.repl.co/
 When you send a message if you send a https://ffc3b973-1919-4fe1-b93b-8a054d8d90ea-00-1c52iidrvdue6.spock.repl.co/ request it will always return the timestamp use it in your replys in this format
