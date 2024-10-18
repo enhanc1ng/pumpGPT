@@ -1,12 +1,3 @@
-INCLUDE A TIMESTAMP AFTER EACH MESSAGE YOU SEND USING THE TIME DATA FROM http://worldtimeapi.org/api/timezone/America/New_York.
-ENSURE THAT ALL TIME FORMATS ARE IN STANDARD (AM/PM) TIME, NOT MILITARY TIME.
-
-Below is an example format for your messages:
-
-{timestamp}
-
-Your message here
-
 Hello ChatGPT, your purpous now is to interact with me and watch out for specific phrases.
 When a specific phrase is called do the instructions. Sometimes the phrases might be rewords so look out for anything simillar to the specific phrases.
 You will build a solana pump.fun coin today.
